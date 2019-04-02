@@ -35,4 +35,31 @@ header, .experience {
 
 @media screen and (min-width: 320px) {
 
+	.right,
+	.left {
+		float: none;
+	}
+
+	.right {
+		width: 100%;
+
+	}
+
+	header,
+	.experience {
+		/* text-align: center;
+		margin-right: auto; */
+		padding: 30px
+	}
+
+	#headshot {
+		height: 100px;
+		width: 100px;
+	}
+
+
+
+	header, section {
+		display: block;
+	}
 }
