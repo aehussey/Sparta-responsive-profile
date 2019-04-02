@@ -45,3 +45,9 @@ body {
 .main-content {
   margin: 0 80px;
 }
+
+   /* Media Queries */
+
+   @media screen and (min-width: 320px) {
+
+   }

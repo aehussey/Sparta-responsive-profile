@@ -18,3 +18,9 @@
 	display: block;
 	margin: 0 auto;
 }
+
+/* Media Queries */
+
+@media screen and (min-width: 320px) {
+
+}

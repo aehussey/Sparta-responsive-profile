@@ -30,3 +30,9 @@ header, .experience {
 	border: 2px solid #E13A63;
 	padding: 10px;
 }
+
+/* Media Queries */
+
+@media screen and (min-width: 320px) {
+
+}
