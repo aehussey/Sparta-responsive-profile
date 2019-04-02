@@ -29,7 +29,7 @@
 		padding: 0;
     height: 100px;
 		width: 100px;
-		margin-top: 25px;
+		margin-top: 10px;
 	}
 
   .tile {
@@ -42,8 +42,10 @@
   .screenshot {
     height: 100px;
     width: 150px;
+  }
 
-
+  p a {
+    word-wrap: break-word;
   }
 
 }
