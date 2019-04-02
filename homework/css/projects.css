@@ -21,7 +21,36 @@
 
 /* Media Queries */
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 310px) and (max-width: 400px){
+
+  #headshot {
+		margin: auto;
+		width: 80%;
+		padding: 0;
+    height: 100px;
+		width: 100px;
+		margin-top: 10px;
+	}
+
+  .tile {
+    width: 80%;}
+
+    .tile img{
+      width:80%
+    }
+
+  .screenshot {
+    height: 100px;
+    width: 150px;
+  }
+
+  p a {
+    word-wrap: break-word;
+  }
+
+}
+
+@media screen and (min-width: 410px) and (max-width: 800px){
 
   #headshot {
 		margin: auto;
