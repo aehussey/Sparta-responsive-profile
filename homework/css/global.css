@@ -49,5 +49,14 @@ body {
    /* Media Queries */
 
    @media screen and (min-width: 320px) {
-     
+
+     .main-content{
+       margin: 0 20px;
+       display: inline-block;
+   		clear: both;
+   		margin-top: 30px;
+   		text-align: center;
+
+     }
+
    }

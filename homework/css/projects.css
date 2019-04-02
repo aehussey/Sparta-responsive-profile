@@ -23,4 +23,27 @@
 
 @media screen and (min-width: 320px) {
 
+  #headshot {
+		margin: auto;
+		width: 80%;
+		padding: 0;
+    height: 100px;
+		width: 100px;
+		margin-top: 25px;
+	}
+
+  .tile {
+    width: 80%;}
+
+    .tile img{
+      width:80%
+    }
+
+  .screenshot {
+    height: 100px;
+    width: 150px;
+
+
+  }
+
 }

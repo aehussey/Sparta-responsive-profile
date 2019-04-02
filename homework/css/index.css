@@ -51,11 +51,10 @@ header, .experience {
 	}
 
 	.main-content {
-		margin: 0 20px;
-		display: inline-block;
+		/* display: inline-block;
 		clear: both;
 		margin-top: 30px;
-		text-align: center;
+		text-align: center; */
 	}
 
 	#headshot {
