@@ -114,4 +114,8 @@ display: block;
 section li {
 text-align: left;
 }
+
+small {font-size: 10px;}
+
+h5 {font-size: 10px;}
 }
