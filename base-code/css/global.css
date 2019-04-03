@@ -58,21 +58,7 @@ body {
          text-align: center;
 
      }
-
-     .navbar {
-       background-color: #01181b;
-     }
-     .navbar a:hover {
-       color: grey;
-     }
-
-     .navbar a {
-       list-style: none;
-       text-decoration: none;
-       color: white;
-     }
-
-   }
+      }
 
 @media screen and (min-width: 410px) and (max-width: 800px){
 
@@ -82,20 +68,5 @@ body {
    		 clear: both;
    		 margin-top: 30px;
    		 text-align: center;
-
-     }
-
-     .navbar {
-       background-color: #01181b;
-     }
-     .navbar a:hover {
-       color: grey;
-     }
-
-     .navbar a {
-       list-style: none;
-       text-decoration: none;
-       color: white;
-     }
-
-   }
+        }
+          }

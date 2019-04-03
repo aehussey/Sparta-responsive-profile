@@ -35,43 +35,42 @@ header, .experience {
 
 @media screen and (min-width: 310px) and (max-width: 400px)  {
 
-	.right,
+.right,
 .left {
-float: none;
-}
+	float: none;
+	}
 
 .right {
-width: 100%;
-}
+	width: 100%;
+	}
 
 .left {
-margin: auto;
-width: 80%;
-padding: 0;
-}
+	margin: auto;
+	width: 80%;
+	padding: 0;
+	}
 
 .main-content {
-margin: 0 20px;
-display: inline-block;
-clear: both;
-margin-top: 30px;
-text-align: center;
-}
+	margin: 0 20px;
+	display: inline-block;
+	clear: both;
+	margin-top: 30px;
+	text-align: center;
+	}
 
 #headshot {
-height: 100px;
-width: 100px;
-margin-top: 25px;
-
-}
+	height: 100px;
+	width: 100px;
+	margin-top: 25px;
+	}
 
 header, section {
-display: block;
-}
+	display: block;
+	}
 
 section li {
-text-align: left;
-}
+	text-align: left;
+	}
 }
 
 
